@@ -12,6 +12,7 @@ public class Scanner2 {
 		int sum = num1 + num2;
 		System.out.println("The sum is " + sum);
 		
+		
 	}
 
 }
