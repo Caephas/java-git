@@ -18,7 +18,7 @@ public class Comparison {
 			System.out.println(num2 + " is larger");
 		}
 		if (num1 == num2) {
-			System.out.println("These numbers are equal");
+			System.out.println("These numbers are equal!!");
 		}
 		// TODO Auto-generated method stub
 
