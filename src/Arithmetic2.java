@@ -13,11 +13,11 @@ public class Arithmetic2 {
 		System.out.print("Enter third integer: ");
 		int num3 = bobby.nextInt();
 		int sum1 = num1 + num2 + num3;
-		System.out.print(sum1);
-		int sum2 = num1 + num2 + num3/3;
-		System.out.print(sum2);
+		System.out.println(sum1);
+		int sum2 = (num1 + num2 + num3)/3;
+		System.out.println(sum2);
 		int sum3 = num1 * num2 * num3;
-		System.out.print(sum3);
+		System.out.println(sum3);
 		
 		
 		// TODO Auto-generated method stub
