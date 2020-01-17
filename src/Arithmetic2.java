@@ -25,4 +25,5 @@ public class Arithmetic2 {
 	}
 
 }
+
 //I've not been able to figure this one out

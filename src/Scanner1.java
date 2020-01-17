@@ -8,6 +8,9 @@ public class Scanner1 {
 		int num1 = bobby.nextInt();
 		System.out.print("Enter second number: ");
 		int num2 = bobby.nextInt();
+		int sum = num1 + num2;
+		System.out.println(sum);
+		
 		// TODO Auto-generated method stub
 
 	}

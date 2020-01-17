@@ -1,6 +1,6 @@
 // Declare variables c,thisIsVariable,q76354 and number to be of type int and initialize each to 0.
 
-public class Variables {
+class Variables {
 
 	public static void main(String[] args) {
 		int c,thisIsVariable,q76354,number;
